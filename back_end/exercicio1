@@ -1,0 +1,22 @@
+ **1.** O que é o Node.js?
+-- é um ambiente de execução (runtime) JavaScript de código aberto e multiplataforma que permite executar códigos JavaScript no lado do servidor (backend), fora do navegado
+
+**2**O Node.js utiliza principalmente a linguagem JavaScript. Ele funciona como um --ambiente de execução (runtime) que permite rodar códigos JavaScript no lado do servidor (backend), fora do navegador, utilizando o motor V8 do Google Chrome. Também suporta TypeScript (com transpilação). 
+**3.** O Node.js roda no navegador ou fora dele?
+--Embora utilize JavaScript, que tradicionalmente é a linguagem dos navegadores (front-end), o Node.js foi criado para permitir que essa linguagem seja executada diretamente no computador ou servidor, atuando no back-end.
+
+**4.** Para que serve o Node.js?
+--O Node.js serve principalmente para executar código JavaScript no lado do servidor (back-end), permitindo o desenvolvimento de aplicações web rápidas, escaláveis e em tempo real.
+**5.** Qual comando é usado para executar um arquivo Node.js no terminal?
+--O comando utilizado para executar um arquivo Node.js no terminal é node <nome_do_arquivo.js>. Basta abrir o terminal, navegar até o diretório do arquivo e digitar node, seguido pelo nome do arquivo, como node app.js. É necessário ter o Node.js instalado no sistema. 
+**6.** O que é o **npm**?
+-- é o gerenciador de pacotes padrão para o ambiente de execução Node.js, consistindo em um repositório online de bibliotecas código aberto e uma ferramenta de linha de comando (CLI).
+**7.** O que significa a palavra **módulo** no Node.js?
+--é uma unidade funcional de código, geralmente contida em um único arquivo JavaScript, que encapsula funcionalidades relacionadas, tornando-as reutilizáveis e organizadas. 
+**8.** O Node.js é mais usado no **front-end** ou no **back-end**?
+--é usado principalmente no back-end
+**9.** O que é o arquivo **package.json**?
+--é um arquivo fundamental em projetos Node.js (e JS em geral) que atua como o "mapa" ou "certidão de nascimento" da aplicação
+**10.** O Node.js é gratuito ou pago?
+– é totalmente gratuito e de código aberto (open-source). Você pode baixar, usar e modificar o Node.js sem pagar licenças, tanto para projetos pessoais quanto comerciais. 
+
