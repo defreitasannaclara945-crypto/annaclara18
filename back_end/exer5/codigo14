@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>programa que retorna o valor absoluto de um numero</title>
+</head>https://www.onlinegdb.com/#editor_1
+autor: Anna clara guimaraes
+
+<body>
+  <script>
+    var valor1 = Math.round (121.6);
+    alert (valor1);
+  </script>
+</body>
+</html>
