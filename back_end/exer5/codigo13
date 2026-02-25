@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>programa que retorna o valor absoluto de um numero</title>
+</head>
+autor: Anna clara guimaraes
+
+<body>
+  <script>
+    alert (Math.random ());
+  </script>
+</body>
+</html>
